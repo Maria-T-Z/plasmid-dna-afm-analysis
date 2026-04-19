@@ -1,0 +1,10 @@
+data/
+*.png
+*.jpg
+*.spm
+*.npy
+
+__pycache__/
+*.pyc
+.env
+venv/
